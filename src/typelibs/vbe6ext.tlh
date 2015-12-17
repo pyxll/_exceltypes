@@ -1,6 +1,6 @@
 ﻿// Created by Microsoft (R) C/C++ Compiler Version 11.00.50727.1 (99d6f535).
 //
-// c:\temp\cpptest\atlproject1\debug\vbe6ext.tlh
+// vbe6ext.tlh
 //
 // C++ source equivalent of Win32 type library C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
 // compiler-generated file created 06/03/14 at 19:30:55 - DO NOT EDIT!
@@ -2049,7 +2049,7 @@ _References : IDispatch
 // Wrapper method implementations
 //
 
-#include "c:\temp\cpptest\atlproject1\debug\vbe6ext.tli"
+#include "typelibs/vbe6ext.tli"
 
 } // namespace VBIDE
 

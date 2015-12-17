@@ -1,6 +1,6 @@
 ﻿// Created by Microsoft (R) C/C++ Compiler Version 11.00.50727.1 (bc9465df).
 //
-// c:\temp\cpptest\atlproject1\debug\mso.tlh
+// mso.tlh
 //
 // C++ source equivalent of Win32 type library C:\Program Files\Common Files\Microsoft Shared\OFFICE14\mso.dll
 // compiler-generated file created 06/03/14 at 19:30:55 - DO NOT EDIT!
@@ -25258,7 +25258,7 @@ SmartArtNode : _IMsoDispObj
 // Function implementation mapping
 //
 
-#pragma start_map_region("c:\temp\cpptest\atlproject1\debug\mso.tli")
+#pragma start_map_region("mso.tli")
 __declspec(implementation_key(1)) IDispatchPtr IAccessible::GetaccParent ( );
 __declspec(implementation_key(2)) long IAccessible::GetaccChildCount ( );
 __declspec(implementation_key(3)) IDispatchPtr IAccessible::GetaccChild ( const _variant_t & varChild );
