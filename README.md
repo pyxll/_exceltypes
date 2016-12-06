@@ -1,3 +1,6 @@
+*This module is no longer necessary for doing Real Time Data in Excel with Python.*
+*See https://www.pyxll.com/docs/userguide/rtd.html*
+
 exceltypes
 ==========
 
